@@ -19,8 +19,9 @@ export default function AuthPanel() {
                     {/* Brand Logo */}
                     <div className="absolute top-8 left-8 lg:left-20 z-20">
                         <svg className="w-10 h-10 text-black cursor-pointer" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path fillRule="evenodd" clipRule="evenodd" d="M256 0L477.703 128V384L256 512L34.2969 384V128L256 0ZM256 53.3333L78.5469 155.733V356.267L256 458.667L433.453 356.267V155.733L256 53.3333Z" fill="currentColor"/>
-                            <path fillRule="evenodd" clipRule="evenodd" d="M256 128L384 202V310L256 384L128 310V202L256 128ZM256 182.261L173.125 230V282L256 329.739L338.875 282V230L256 182.261Z" fill="currentColor"/>
+                            <path fill="currentColor" d="M256 0L478.8 128.3V382.5L394.8 333.5V176.9L256 98.3L117.2 176.9V333.5L33.2 382.5V128.3Z" />
+                            <path fill="currentColor" d="M256 158.3L342.2 207.2V306.8L256 357L169.8 306.8V207.2Z" />
+                            <path fill="currentColor" d="M117.2 431.9L202.6 386.1L256 416.9L309.4 386.1L394.8 431.9L256 512Z" />
                         </svg>
                     </div>
 
@@ -91,8 +92,9 @@ export default function AuthPanel() {
                     {/* Brand Logo */}
                     <div className="absolute top-8 left-8 lg:left-20 z-20">
                         <svg className="w-10 h-10 text-black cursor-pointer" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path fillRule="evenodd" clipRule="evenodd" d="M256 0L477.703 128V384L256 512L34.2969 384V128L256 0ZM256 53.3333L78.5469 155.733V356.267L256 458.667L433.453 356.267V155.733L256 53.3333Z" fill="currentColor"/>
-                            <path fillRule="evenodd" clipRule="evenodd" d="M256 128L384 202V310L256 384L128 310V202L256 128ZM256 182.261L173.125 230V282L256 329.739L338.875 282V230L256 182.261Z" fill="currentColor"/>
+                            <path fill="currentColor" d="M256 0L478.8 128.3V382.5L394.8 333.5V176.9L256 98.3L117.2 176.9V333.5L33.2 382.5V128.3Z" />
+                            <path fill="currentColor" d="M256 158.3L342.2 207.2V306.8L256 357L169.8 306.8V207.2Z" />
+                            <path fill="currentColor" d="M117.2 431.9L202.6 386.1L256 416.9L309.4 386.1L394.8 431.9L256 512Z" />
                         </svg>
                     </div>
 
