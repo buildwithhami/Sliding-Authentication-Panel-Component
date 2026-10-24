@@ -27,7 +27,7 @@ my-glass-app/
 ├── app/
 │   ├── globals.css          # Global CSS, Font Imports & Tailwind v4 Theme
 │   ├── layout.tsx           # Root Layout Definition
-│   └── page.tsx             # Root Page Page rendering <AuthPanel/>
+│   └── page.tsx             # Root Page rendering <AuthPanel/>
 ├── components/
 │   └── AuthPanel.tsx        # Main Production Authentication Component
 ├── public/
