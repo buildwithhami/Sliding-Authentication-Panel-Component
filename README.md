@@ -71,3 +71,9 @@ input:-webkit-autofill:active {
     -webkit-text-fill-color: #1c1917 !important;
     transition: background-color 5000s ease-in-out 0s;
 }
+```
+
+## Customization & Branding
+
+- **Brand Logo:** Replace the inline SVG inside `components/AuthPanel.tsx` (in both Sign In and Sign Up panel views) with your own project logo or image asset.
+- **Side Panel Image:** Replace `public/image-login.png` with your custom promo or authentication side banner image.
